@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Science postgraduate with working knowledge of Data Pipelines and Machine Learning. I usually work on Data Projects with colleagues from different regions, nationalities and time zones.
+As a recent graduate of a BSc in Computer Engineering and an MSc in Data Science, I am a highly motivated and results-oriented professional looking to apply my knowledge and skills in a challenging and dynamic work environment. Through several internships prior to graduation, I was able to gain valuable work experience and figure out what I like best in this field. I am a problem solver with a strong ability to think strategically. I have experience with data pipelines and machine learning. I want to use my technical skills and academic background to really make an impact in this field and grow professionally.
 
 
 ## 🌐 Socials:
@@ -12,8 +12,5 @@ I am a Data Science postgraduate with working knowledge of Data Pipelines and Ma
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jmdu99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
