@@ -1,5 +1,7 @@
 # 💫 About Me:
-As a recent graduate of a BSc in Computer Engineering and an MSc in Data Science, I am a highly motivated and results-oriented professional looking to apply my knowledge and skills in a challenging and dynamic work environment. Through several internships prior to graduation, I was able to gain valuable work experience and figure out what I like best in this field. I am a problem solver with a strong ability to think strategically. I have experience with data pipelines and machine learning. I want to use my technical skills and academic background to really make an impact in this field and grow professionally.
+- Bachelor's degree in Computer Engineering & Master's degree in Data Science.
+- Problem solver & results oriented. 
+- Working experience in analyzing data, building data pipelines, working with ML models, etc.
 
 
 ## 🌐 Socials:
