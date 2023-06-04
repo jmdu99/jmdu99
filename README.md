@@ -1,7 +1,9 @@
 # 💫 About Me:
-- Bachelor's degree in Computer Engineering & Master's degree in Data Science.
-- Problem solver & results oriented. 
-- Working experience in analyzing data, building data pipelines, working with ML models, etc.
+📍BSc graduate in Computer Engineering & MSc holder in Data Science.
+
+📍Problem solver oriented towards results. 
+
+📍Working experience in analyzing data sets, building data pipelines and machine learning models.
 
 
 ## 🌐 Socials:
