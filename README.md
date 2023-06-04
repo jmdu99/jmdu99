@@ -3,7 +3,7 @@
 
 📍Problem solver oriented towards results. 
 
-📍Working experience in analyzing data sets, building data pipelines and machine learning models.
+📍Hands-on experience in analyzing data sets, building data pipelines and working with machine learning models.
 
 
 ## 🌐 Socials:
