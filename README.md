@@ -7,10 +7,8 @@
 
 🔎 Looking for new challenges in complex data projects where I can keep growing and delivering value from day one.
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jmdu99&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jmdu99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
