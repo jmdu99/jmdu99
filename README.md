@@ -9,6 +9,4 @@
 
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jmdu99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![trophy](https://github-trophies.vercel.app/?username=jmdu99&theme=radical&margin-w=4)
