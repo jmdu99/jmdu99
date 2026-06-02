@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jose
 
-**Freelance Data Engineer** — Turning messy data into clarity for projects with real impact.  
+**Data Engineer** — Turning messy data into clarity for projects with real impact.  
 I work with purpose-driven teams to build data systems they can trust.  
 
 ## 🛠 What I Do
@@ -28,18 +28,7 @@ I work with purpose-driven teams to build data systems they can trust.
 `Generative AI` `Large Language Models` `OpenAI API` `LangChain (RAG)` `Hugging Face Transformers` `NLTK` `spaCy` `scikit-learn` `PyTorch` `TensorFlow` `SPARQL` `AWS SageMaker`
 
 ### Analytics & Visualization
-`Matplotlib` `Seaborn` `Plotly` `Amazon QuickSight` `Apache Superset`
-
-## 🎯 About Me
-Since 2021, I've worked in data across tech, banking, and large-scale systems (Amazon, Slido/Cisco).  
-In 2025, I went freelance to focus on projects with real impact — from healthtech and edtech to any sector that values purpose as much as results.  
-I also donate 10% of my earnings to the GiveWell Top Charities Fund.  
-
-## 🗂 Portfolio & Contact
-💼 **Portfolio request** → [LinkedIn](https://www.linkedin.com/in/jm-diaz-urraco/?locale=en_US)  
-📩 Let’s connect and discuss how to make your data work better.  
+`Matplotlib` `Seaborn` `Plotly` `Amazon QuickSight` `Apache Superset` 
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-trophies.vercel.app/?username=jmdu99&theme=radical&margin-w=4)
-
-
